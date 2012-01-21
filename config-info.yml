@@ -1,0 +1,2 @@
+    - name: 'Rani-Proxy'
+      git: 'git://github.com/raniop/Rani-Proxy.git'
